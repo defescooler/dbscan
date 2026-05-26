@@ -2,6 +2,9 @@
 
 DBSCAN clustering on pistachio images (hue/saturation features), visualized with raylib.
 
+<img width="1012" height="840" alt="image" src="https://github.com/user-attachments/assets/f772eb8a-0dff-464d-888e-5c90bed5d9c1" />
+
+
 ## Build
 
 ```
